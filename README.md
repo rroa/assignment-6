@@ -148,3 +148,14 @@ This is a small sammple snippet that demonstrates how to use the library
         }
 	
 Please use the sounds provided in this repo or feel free to produce your own. It is expected to have sounds for: shooting, thrust, game over, extra ships, destroying big, medium and small asteroids.
+
+## Grading
+Since this is a midterm evaluation will be different. The overall grade will be 20% of the total acummulated points for the class. The distribution of this grade will be as follows:
+
+* 50% of the grade will be attributed using the grading Rubric attached to this repository.
+* 50% of the grade will be attributed using the following criteria:
+  * 20% End-user game experience. This defines how good the game feels or how close is the experience to the real game.
+	* 30% Text rendering
+	* 30% Sound support
+	* 10% Debug mode
+	* 10% Respawing, game over and re-starting the game
