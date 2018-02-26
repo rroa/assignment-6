@@ -153,9 +153,19 @@ Please use the sounds provided in this repo or feel free to produce your own. It
 Since this is a midterm evaluation will be different. The overall grade will be 20% of the total acummulated points for the class. The distribution of this grade will be as follows:
 
 * 50% of the grade will be attributed using the grading Rubric attached to this repository.
-* 50% of the grade will be attributed using the following criteria:
+* 50% of the grade will be attributed using the following "GAMING EXPERIENCE" criteria:
   * 20% End-user game experience. This defines how good the game feels or how close is the experience to the real game.
 	* 30% Text rendering
 	* 30% Sound support
 	* 10% Debug mode
 	* 10% Respawing, game over and re-starting the game
+	
+## Extra credit
+Adding the **flying saucer** adds an extra 5% to your overall grade. These are the requirements:
+
+- [ ] The flying saucer must appear randomly while playing the game.
+- [ ] The flying saucer should fly across the screend (end-to-end) and then disappear.
+- [ ] The flying saucer should shoot the user randomly, bullets should follow a constant trajectory and disappear after 3 or 4 seconds.
+- [ ] As the player has a higher score the amount of bullets and the saucer speed should increase.
+
+Attribution of the extra credit will only happen if all of the "GAMING EXPERIENCE" requirements are met. 
