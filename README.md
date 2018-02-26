@@ -50,7 +50,6 @@
       
 - [ ] You need to use `TTF_OpenFont` in order to load a font file. If the function fails to load the font it will return a `nullptr`.
   - [ ] Fonts need to be loaded once and only once.
-- [ ] You need to use `TTF_OpenFont` in order to load a font file. If the function fails to load the font it will return a `nullptr`.
 - [ ] Fonts are first rendered to a texture and then to the screen. Since we have not learned how to do this a function will be provided to allow for this.
     
       unsigned int power_two_floor(unsigned int val) {
