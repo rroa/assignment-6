@@ -155,10 +155,10 @@ Since this is a midterm evaluation will be different. The overall grade will be 
 * 50% of the grade will be attributed using the grading Rubric attached to this repository.
 * 50% of the grade will be attributed using the following "GAMING EXPERIENCE" criteria:
   * 20% End-user game experience. This defines how good the game feels or how close is the experience to the real game.
-	* 30% Text rendering
-	* 30% Sound support
-	* 10% Debug mode
-	* 10% Respawing, game over and re-starting the game
+  * 30% Text rendering
+  * 30% Sound support
+  * 10% Debug mode
+  * 10% Respawing, game over and re-starting the game
 	
 ## Extra credit
 Adding the **flying saucer** adds an extra 5% to your overall grade. These are the requirements:
