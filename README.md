@@ -123,9 +123,9 @@
 		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
     
 - [ ] You should use one of the provided fonts or all of them and allow for some config setting. Your choice.
-- [ ] When the user dies, it should respawn on the center of the screen and have a cooling period of 2 seconds were he cannot die nor shoot asteroids.
-- [ ] If the user depletes all of their lives a Game Over text should appear on top of the screen.
-  - [ ] The user should be able to restart the game by pressing a specified key (via the game over screen).
+- [ ] When the player looses a life in the game, it should respawn on the center of the screen and have a cooling period of 2 seconds were he cannot die nor shoot asteroids.
+- [ ] If the player depletes all of their lives a Game Over text should appear on top of the screen.
+  - [ ] The player should be able to restart the game by pressing a specified key (via the game over screen).
 
 ### Sounds
 [IrrKlang](http://www.ambiera.com/irrklang/downloads.html) is a high level 2D and 3D cross platform (Windows, Mac OS X, Linux) sound engine and audio library that plays WAV, MP3, OGG, and FLAC files to name a few. It also features several audio effects like reverb, delay and distortion that can be extensively tweaked. Please download the library files for the `x64` platform. Please read the documentation in order to learn how to use the library and familiarize with its API.
