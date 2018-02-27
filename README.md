@@ -34,8 +34,8 @@
        
 - [ ] There are some debugging routines to make sure the library was loaded, you can have them in your `Init` function as well.
 
-                SDL_version compile_version;
-                const SDL_version *link_version = TTF_Linked_Version();
+        SDL_version compile_version;
+        const SDL_version *link_version = TTF_Linked_Version();
 		SDL_TTF_VERSION(&compile_version);
     
 		SDL_Log("compiled with SDL_ttf version: %d.%d.%d\n",
