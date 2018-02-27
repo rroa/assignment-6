@@ -34,8 +34,8 @@
        
 - [ ] There are some debugging routines to make sure the library was loaded, you can have them in your `Init` function as well.
 
-      SDL_version compile_version;
-		const SDL_version *link_version = TTF_Linked_Version();
+                SDL_version compile_version;
+                const SDL_version *link_version = TTF_Linked_Version();
 		SDL_TTF_VERSION(&compile_version);
     
 		SDL_Log("compiled with SDL_ttf version: %d.%d.%d\n",
@@ -50,7 +50,7 @@
       
 - [ ] You need to use `TTF_OpenFont` in order to load a font file. If the function fails to load the font it will return a `nullptr`.
   - [ ] Fonts need to be loaded once and only once.
-- [ ] Fonts are first rendered to a texture and then to the screen. Since we have not learned how to do this a function will be provided to allow for this.
+- [ ] Fonts are first rendered to a texture and then to the screen. Since we have not learned how to do this, here's how you achieve it.
     
       unsigned int power_two_floor(unsigned int val) {
 		unsigned int power = 2, nextVal = power * 2;
