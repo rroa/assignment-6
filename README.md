@@ -163,7 +163,7 @@ Since this is a midterm evaluation will be different. The overall grade will be 
 Adding the **flying saucer** adds an extra 5% to your overall grade. These are the requirements:
 
 - [ ] The flying saucer must appear randomly while playing the game.
-- [ ] The flying saucer should fly across the screend (end-to-end) and then disappear.
+- [ ] The flying saucer should fly across the screen (end-to-end) and then disappear.
 - [ ] The flying saucer should shoot the user randomly, bullets should follow a constant trajectory and disappear after 3 or 4 seconds.
 - [ ] As the player has a higher score the amount of bullets and the saucer speed should increase.
 
